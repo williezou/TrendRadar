@@ -99,3 +99,6 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+  - id: "xueqiu"
+    name: "雪球"
+
